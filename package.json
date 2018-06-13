@@ -1,0 +1,45 @@
+{
+  "_from": "chromehtml2pdf",
+  "_id": "chromehtml2pdf@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-tV5DNv13hg1CFbx725rHL+yL46sXKqIOxk0phVu3TNL5XyJceW6dZw6sprRDD6QNk0Pa0V9R8FQVg7qkySnpeg==",
+  "_location": "/chromehtml2pdf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "chromehtml2pdf",
+    "name": "chromehtml2pdf",
+    "escapedName": "chromehtml2pdf",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/chromehtml2pdf/-/chromehtml2pdf-1.0.1.tgz",
+  "_shasum": "66630e4a6ef84748afe0927f8fe092088cabda0f",
+  "_spec": "chromehtml2pdf",
+  "_where": "/Users/ericmason",
+  "author": {
+    "name": "DataVerity, Inc"
+  },
+  "bin": {
+    "chromehtml2pdf": "./index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "commander": "^2.13.0",
+    "puppeteer": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "Create PDFs from HTML files/web pages from the command line.",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "chromehtml2pdf",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
